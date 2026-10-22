@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="docs/images/readme-banner.png" alt="React Chat UI - Hidden Leaf inspired project banner" width="100%" />
-</p>
 
 <div align="center">
 
