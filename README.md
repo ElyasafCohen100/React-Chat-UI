@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/images/readme-banner.png" alt="React Chat UI - Hidden Leaf inspired project banner" width="100%" />
+</p>
+
 <div align="center">
 
 # 🍥 React Chat UI 🥷
@@ -15,6 +19,12 @@
 </div>
 
 ---
+
+![GitHub stars](https://img.shields.io/github/stars/ElyasafCohen100/React-Chat-UI?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ElyasafCohen100/React-Chat-UI?style=social)
+
+> **Mini Project | Frontend Development**  
+> A Naruto-inspired interactive chat UI built with React, TypeScript, Redux Toolkit and Material UI.
 
 ## 🌿 About the Project
 
@@ -175,6 +185,22 @@ This project is a hands-on exercise in:
 - Handling user interactions and conditional rendering
 - Simulating asynchronous UI state transitions
 - Organizing a frontend project into maintainable modules
+
+---
+
+## 👋 Created with Good Vibes By
+
+<p align="center">
+  <a href="https://github.com/ElyasafCohen100">
+    <img src="https://raw.githubusercontent.com/ElyasafCohen100/React-PhoneBook-App/main/EC2.jpeg" alt="Elyasaf Cohen" width="450" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ElyasafCohen100">
+    <img src="https://img.shields.io/badge/GitHub-Elyasaf_Cohen-181717?style=for-the-badge&logo=github&logoColor=white" alt="Elyasaf Cohen on GitHub" />
+  </a>
+</p>
 
 ---
 
